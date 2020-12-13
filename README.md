@@ -2,13 +2,13 @@
 
 ## Table of Contents:
 
-###[Description](#description)
-###[Installation Instructions](#installation-instructions)
-###[Test](#test)
-###[Images](#images)
-###[License](#license)
-###[Contributors](#contributors)
-###[Questions](#questions)
+-[Description](#description)
+-[Installation Instructions](#installation-instructions)
+-[Test](#test)
+-[Images](#images)
+-[License](#license)
+-[Contributors](#contributors)
+-[Questions](#questions)
 
 ## Description
 
