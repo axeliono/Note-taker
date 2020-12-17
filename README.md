@@ -2,13 +2,13 @@
 
 ## Table of Contents:
 
-[Description](#description)
-[Installation Instructions](#installation-instructions)
-[Test](#test)
-[Images](#images)
-[License](#license)
-[Contributors](#contributors)
-[Questions](#questions)
+-[Description](#description)
+-[Installation Instructions](#installation-instructions)
+-[Test](#test)
+-[Images](#images)
+-[License](#license)
+-[Contributors](#contributors)
+-[Questions](#questions)
 
 ## Description
 
@@ -26,7 +26,7 @@ type {npm start} into the terminal to begin
 
 Image of completed HTML
 ![Image](./Develop/public/assets/images/note-taker-pic.jpg)
-(./Develop/public/assets/images/note-taker-pic2.jpg)
+![image](./Develop/public/assets/images/note-taker-pic2.jpg)
 
 ## License
 
